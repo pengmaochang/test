@@ -3,6 +3,6 @@ import java.util.*;
 Class Test
 {
 	public Void show(){
-		system.out.prinln("哈哈哈");
+		system.out.prinln("我们不一样");
 	}
 }
